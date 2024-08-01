@@ -46,7 +46,7 @@ I hold a masters degree in Animal  Science with a focus on data analytics.
 ### Excel Modelling- **Project Name**: [Project Title](link-to-project)  - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the functions and techniques used in the project.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [training.justit@gmail.com](mailto:training.justit@gmail.com)
+* ✉️  You can contact me at [f_oluwaseunn@live.co.uk]
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
@@ -58,7 +58,7 @@ I hold a masters degree in Animal  Science with a focus on data analytics.
    <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+**Skills Snapshot Languages**:  Tableau, PowerBI, Excel, Access, Python, MySQL and SQL Data Manipulation, Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Git, GitHub
 
 ### Socials
 
