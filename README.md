@@ -32,7 +32,8 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 - **Project Name**: [Project Title](link-to-project) 
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the features and data sources used in the project. 
-### Tableau- **Project Name**: [Project Title](link-to-project)  
+### Tableau
+- **Project Name**: [The Wealth of Nations Project](https://sites.google.com/view/elizabeth-fatoki/project-page/tableau)  
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the features and data sources used in the project.
 ### Access
@@ -40,10 +41,10 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the features and tables used in the project.
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Sakila Project](https://sites.google.com/view/elizabeth-fatoki/project-page/mysql)
 - **Description**: Brief description of what the project does and its key features.
-- **Technologies Used**: List the features and databases used in the project. 
-### Python and Pandas
+- **Technologies Used**: MySQL workbench, CSV files.
+### Python
 - **Project Name**: [Project Title](link-to-project)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the libraries/packages used in the project. 
@@ -51,13 +52,14 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 - **Project Name**: [Project Title](link-to-project) 
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the tools and concepts used in the project. 
-### Excel Modelling- **Project Name**: [Project Title](link-to-project)  
+### Excel Modelling
+- **Project Name**: [Project Title](link-to-project)  
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the functions and techniques used in the project.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [f_oluwaseunn@live.co.uk]
-* 🧠  I'm learning R, Pandas, Python, 
+* ✉️  You can contact me at [f_oluwaseun@live.co.uk]
+* 🧠  I'm learning R, Pandas, Python and working on becoming Azure D900 certified
 * 🤝  I'm open to collaborating on data analysis projects in the Financial Services, Healthcare and Agriculture sectors including environment, food and rural affairs.
 
 ### Skills
