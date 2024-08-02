@@ -10,10 +10,10 @@ This GitHub repository showcases my projects across various tools and technologi
 
 **About Me** 🎓 
 
-I hold a masters degree in Animal Nutrition and Production with over 12 years experience of customer service and complaint handling n the financial services sector.
-📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
+I hold a masters degree in Animal Nutrition and Production with over 12 years experience of customer service and complaint handling in the financial services sector.
+📊 Proficient in creating data visualizations with Tableau and PowerBI.
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+🌐 Curious and working towards being proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn), web scraping and API integration. 
 
 ## Projects
 
@@ -22,7 +22,6 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
    
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
-
 
 ### R 
 - **Project Name**: [Project Title](link-to-project)
@@ -55,7 +54,7 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 ### Excel Modelling
 - **Project Name**: [Excel analysis of Wealth of Nations](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/14kBPtsVRArE1Do4OZRs7rpaz_xR_sbtY/edit)  
 - **Description**: Brief description of what the project does and its key features.
-- **Technologies Used**: List the functions and techniques used in the project.
+- **Technologies Used**: Look-ups, charts, macros
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [f_oluwaseun@live.co.uk]
