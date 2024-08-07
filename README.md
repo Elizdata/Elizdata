@@ -24,7 +24,8 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
 ### R 
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Exploratory Data Analysis (EDA) of Titanic dataset using R](https://github.com/user-attachments/assets/c964e55c-8066-4e97-98ce-adf4ca1c98f3)
+](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/1aquf-ZQVzQOTTvWyc5nBUmFqrrPE9_HW/edit)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the libraries/packages used in the project. 
 ### PowerBI
