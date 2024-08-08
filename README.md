@@ -17,15 +17,10 @@ I hold a masters degree in Animal Nutrition and Production with over 12 years ex
 
 ## Projects
 
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-   
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
+**Exploratory Data Analysis:** Explored the Titanic dataset. Created informative visualizations using GGPloy=t and Plotly. Uncovered the influence/effect of embarkation point, passenger class, fares and age on survival. 
 
 ### R 
-- **Project Name**: [Exploratory Data Analysis (EDA) of Titanic dataset using R](https://github.com/user-attachments/assets/c964e55c-8066-4e97-98ce-adf4ca1c98f3)
-](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/1aquf-ZQVzQOTTvWyc5nBUmFqrrPE9_HW/edit)
+- **Project Name**: [The Titanic Project](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/1ttZD8jntASrqUrMJ302m7ymCgVlDEezi/edit)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the libraries/packages used in the project. 
 ### PowerBI
