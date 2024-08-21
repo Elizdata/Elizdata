@@ -23,7 +23,7 @@ I hold a masters degree in Animal Nutrition and Production with over 10 years ex
 **Exploratory Data Analysis:** Explored the Titanic dataset. Created informative visualizations using GGPloy=t and Plotly. Uncovered the influence/effect of embarkation point, passenger class, fares and age on survival. 
 
 ### R 
-- **Project Name**: [The Titanic Project](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/1ttZD8jntASrqUrMJ302m7ymCgVlDEezi/edit)
+- **Project Name**: [The Titanic Project](https://sites.google.com/view/elizabeth-fatoki/project-page/r)
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the libraries/packages used in the project. 
 ### PowerBI
@@ -51,7 +51,7 @@ I hold a masters degree in Animal Nutrition and Production with over 10 years ex
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: List the tools and concepts used in the project. 
 ### Excel Modelling
-- **Project Name**: [Excel analysis of Wealth of Nations](https://sites.google.com/d/1DipKWjiZC95kL7hXH3dPo6aCyfnAo8pl/p/14kBPtsVRArE1Do4OZRs7rpaz_xR_sbtY/edit)  
+- **Project Name**: [Excel analysis of Wealth of Nations](https://sites.google.com/view/elizabeth-fatoki/project-page/excel)  
 - **Description**: Brief description of what the project does and its key features.
 - **Technologies Used**: Look-ups, charts, macros
 
