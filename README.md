@@ -7,13 +7,13 @@ Aspiring Data Analyst | Tableau, PowerBI, Access, Microsoft Azure, SQL, Python, 
 
 👋 Hi there! I’m Elizabeth, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge and business insights to influence stakeholder decisions, and I’m excited to share my projects and experiences. 
 
-I recently completed a 12-week intensive digital skills bootcamp in Data.
-
 This GitHub repository showcases my projects across various tools and technologies.
  
 **About Me** 🎓 
 
 I hold a masters degree in Animal Nutrition and Production with over 10 years experience of customer service and complaint handling in the financial services sector.
+
+Also, I recently completed a 12-week intensive digital skills bootcamp in Data.
 
 📊 Proficient in creating interesting and interactive data visualizations with Tableau and PowerBI.
 
