@@ -6,13 +6,16 @@ Aspiring Data Analyst | Tableau, PowerBI, Access, Microsoft Azure, SQL, Python, 
 
 
 👋 Hi there! I’m Elizabeth, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge and business insights to influence stakeholder decisions, and I’m excited to share my projects and experiences. 
-This GitHub repository showcases my projects across various tools and technologies.
 
+I recently completed a 12-week intensive digital skills bootcamp in Data.
+
+This GitHub repository showcases my projects across various tools and technologies.
+ 
 **About Me** 🎓 
 
 I hold a masters degree in Animal Nutrition and Production with over 10 years experience of customer service and complaint handling in the financial services sector.
 
-📊 Proficient in creating interestinng and interactive data visualizations with Tableau and PowerBI.
+📊 Proficient in creating interesting and interactive data visualizations with Tableau and PowerBI.
 
 🧩 Possess a budding knowledge and understanding of SQL, data cleaning and exploratory data analysis (EDA).
 
@@ -20,7 +23,7 @@ I hold a masters degree in Animal Nutrition and Production with over 10 years ex
 
 ## Projects
 
-**Exploratory Data Analysis:** Explored the Titanic dataset. Created informative visualizations using GGPloy=t and Plotly. Uncovered the influence/effect of embarkation point, passenger class, fares and age on survival. 
+**Exploratory Data Analysis:** Explored the Titanic dataset. Created informative visualizations using GGPlot and Plotly. Uncovered the influence/effect of the embarkation point, passenger class, fares and age on survival. 
 
 ### R 
 - **Project Name**: [The Titanic Project](https://sites.google.com/view/elizabeth-fatoki/project-page/r)
